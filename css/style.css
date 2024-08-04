@@ -406,6 +406,15 @@
     padding-top: 0;
 }
 
+/* Center products and ensure proper spacing */
+.container .row {
+    justify-content: center;
+}
+
+.product-item {
+    margin-bottom: 30px; /* Ensure spacing between rows */
+}
+
 
 /*** Team ***/
 .team-item {
